@@ -12,7 +12,7 @@ metadata:
         - imx6dl-sabresd
 install:
     git-repos:
-        - https://github.com/eslover/sandbox-test
+        - https://github.com/eslover/sandbox-test.git
 
 run:
     steps:
