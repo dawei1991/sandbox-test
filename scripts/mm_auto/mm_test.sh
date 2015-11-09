@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mkdir /mnt/auto_test
-mount -o nolock,tcp -t nfs 10.192.224.45:/streams/ttVector/SHAVectors /mnt/auto_test
+#mount -o nolock,tcp -t nfs 10.192.224.45:/streams/ttVector/SHAVectors /mnt/auto_test
 
 cd scripts/mm_auto
 
